@@ -40,8 +40,4 @@ Capturamos as ideias que tivemos fazendo a Concept Art, unimos e concretizamos c
    Nicolli: nessa atividade consegui desenvolver principalmente a habilidade de expressar minhas ideias por intermédio do desenho. Além disso, desenvolvi também a competência de trablhar em conjunto com outra pessoa, de se comunicar e de saber unir as ideias.
    Luana: por intermédio dessa atividade, pude aprimorar minhas habilidades de concepção de ideias e de desenho, especialmente a transmissão de ideias do papel para o digital. 
 
----
 
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
