@@ -1,14 +1,14 @@
 # Relatório - Reinventando Pong
 
 ## Introdução  
-O objetivo da atividade é reiventar o clássico jogo "Pong", começando pela elbaoração de um concept art e, posteriormente, de uma tela digital, de modo a estudar a mecânica, a dinâmica e a estética, refletir sobre como as mudanças alteram a experiência do jogador e, portanto, evoluir os aprendizados de Game Design. Nesse sentido, a nossa dupla optou por aprimorar o jogo "Pong" implementando outros recursos (funcionais e visuais) do esporte "PingPong" que ainda não eram contemplados e, por intermédio de elementos como bolas especiais e raquetes diferentes, tonamos a jogabilidade mais divertida e motivadora para o usuário.
+O objetivo da atividade é reiventar o clássico jogo "Pong", começando pela elaboração de um Concept Art e, posteriormente, de uma tela digital, de modo a estudar a mecânica, a dinâmica e a estética, refletir sobre como as mudanças alteram a experiência do jogador e, portanto, evoluir os aprendizados de Game Design. Nesse sentido, a nossa dupla optou por aprimorar o jogo "Pong" implementando outros recursos (funcionais e visuais) do esporte "PingPong" que ainda não eram contemplados e, por intermédio de elementos como bolas especiais e raquetes diferentes, tonamos a jogabilidade mais divertida e motivadora para o usuário.
  
 ---
 
 ## Pesquisa e Análise Inicial  
-O jogo "Pong" representa uma versão digital muito suscinta do esporte "PingPong', reconhecendo sua principal característica: rebater a bola ao outro jogador. As mecânicas do jogo Pong, em sua versão original, consiste em mover duas barras verticais (as quais representam as raquetes). Já a dinâica, por sua vez, compreende pegar a bola na área da "raquete" para rebate-la e ganahar mais pontos. Por fim, em relação a estética o jogo é um pixelart muito simples, a área - "mesa" - é delimitada por segmentos de reta e pontilhados e as cores se resumem em preto e branco, proporcionando simplicidade e, por outro lado, pouco estímulo visual para o usuário. 
+O jogo "Pong" representa uma versão digital muito sucinta do esporte "PingPong', reconhecendo sua principal característica: rebater a bola ao outro jogador. As mecânicas do jogo Pong, em sua versão original, consiste em mover duas barras verticais (as quais representam as raquetes). Já a dinâmica, por sua vez, compreende pegar a bola na área da "raquete" para rebatê-la e ganhar mais pontos. Por fim, em relação a estética o jogo é um pixelart muito simples, a área - "mesa" - é delimitada por segmentos de reta e pontilhados e as cores se resumem em preto e branco, proporcionando simplicidade e, por outro lado, pouco estímulo visual para o usuário. 
 O jogo se torna divertido principalmente por explorar a competição, já que, por meio do sistema de pontos, os jogadores se motivam a continuar jogando para obter mais pontuação do que seu adversário. Vale mencionar também que ao passar do tempo o jogo aumenta sua velocidade o que torna-o mais envolvente e desafiador.
-Ademais, faz-se necessário destacar que a empresa Atari revolucionou a industria dos vídeos games ao lançar o jogo Pong na década de 1970 e, dessa forma, o fato de ser uma inovação contribui para atrair o público e prender sua atenção na novidade.
+Ademais, faz-se necessário destacar que a empresa Atari revolucionou a indústria dos videogames ao lançar o jogo Pong na década de 1970 e, dessa forma, o fato de ser uma inovação contribui para atrair o público e prender sua atenção na novidade.
 
 ---
 
@@ -20,7 +20,6 @@ Decidimos por manter o contexto primário de rebater a bola ao adversário e a m
 ---
 
 ## Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*
 <img src="https://github.com/NicolliVenino/Atividade_UX/blob/main/Projeto_Reinventando_Pong.png">
 
 No espectro visual, tornamos a mesa e as raquetes muito mais parecidas com suas versões realistas para reforçar o aspecto esportivo do jogo, de modo a aproximá-lo do esporte original. Fizemos isso alterando a perspectiva, o layout e as cores. 
@@ -31,12 +30,13 @@ Capturamos as ideias que tivemos fazendo a Concept Art, unimos e concretizamos c
 ---
 
 ## Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
-
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-   Nicolli: Minha maior dificuldade foi pensar em algo para inovar o jogo sem perder a essência competitiva e sem sair muito da base. 
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
-   Nicolli: Nessa atividade consegui desenvolver principalmente a habilidade de expressar minhas ideias por intermédio do desenho. Além disso, desenvolvi também a competência de trablhar em conjunto com outra pessoa, de se comunicar e de saber unir as ideias. 
+   Nicolli: minha maior dificuldade foi pensar em algo para inovar o jogo sem perder a essência competitiva e sem sair muito da base.
+   Luana: minha maior dificuldade foi conceber ideias que não fugissem, de certo modo, do escopo do Pong no processo de inovação.
+   
+3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+   Nicolli: nessa atividade consegui desenvolver principalmente a habilidade de expressar minhas ideias por intermédio do desenho. Além disso, desenvolvi também a competência de trablhar em conjunto com outra pessoa, de se comunicar e de saber unir as ideias.
+   Luana: por intermédio dessa atividade, pude aprimorar minhas habilidades de concepção de ideias e de desenho, especialmente a transmissão de ideias do papel para o digital. 
 
 ---
 
