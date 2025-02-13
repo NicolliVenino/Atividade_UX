@@ -13,7 +13,7 @@ Ademais, faz-se necessário destacar que a empresa Atari revolucionou a industri
 ---
 
 ## Proposta de Reinvenção  
-Decidimos por manter o contexto primário de rebater a bola ao adversário e a mecânica consiste em mover uma raquete, agora mais realista e esticamente mais atrativa. Entretanto, junto ao original sistema de pontuação, implementamos um sistema de vidas - no qual o usuario perde vida quando seu oponente faz um ponto - e, além disso, criamos mudanças significativas de efeitos especiais nas bolas - conforme a progressão do jogo, o jogador vai liberando tipos diferentes de bolas, como por exemplo, a bola de fogo que é lançada mais rapidamente e a bola anjo que ao marcar um ponto com ela o jogador recupera uma de suas vidas. O jogo também continua ambientado em uma mesa para não perder a essência do esporte, porém a perspectiva muda para um ponto de vista "de frente" e não mais "de cima" para proporcionar uma experiência mais realista e fiel ao esporte PingPong. 
+Decidimos por manter o contexto primário de rebater a bola ao adversário e a mecânica consiste em mover uma raquete, agora mais realista e esteticamente mais atrativa. Entretanto, criamos mudanças significativas de efeitos especiais nas bolas - conforme a progressão do jogo, o jogador vai liberando tipos diferentes de bolas, como por exemplo, a bola de fogo, que é lançada mais rapidamente, e a bola de pontuação dupla, que fornece ao jogador a possibilidade de ganhar 2 vezes mais pontos em uma rodada com saque bem-sucedido. O jogo também continua ambientado em uma mesa para não perder a essência do esporte, porém a perspectiva muda para um ponto de vista "de frente" e não mais "de cima" para proporcionar uma experiência mais realista e fiel ao esporte PingPong. 
 
 *Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 
@@ -22,10 +22,10 @@ Decidimos por manter o contexto primário de rebater a bola ao adversário e a m
 ## Tela Digital do Jogo  
 *Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
 
-No espectro visual, tornamos a mesa e as raquetes muito mais parecidas com suas versões realistas para reforçar o aspecto esportivo do jogo, de modo a aproxima-lo do esporte original. Fizemos isso alterando a perspectiva, o layout e as cores. 
-Os efeitos especiais nas bolas foram feitos pensando no maior estímulo visual para o jogador e também para mante-lo entretido com as novidades, já que os efeitos são liberados conforme o desempenho do usuário avança. 
+No espectro visual, tornamos a mesa e as raquetes muito mais parecidas com suas versões realistas para reforçar o aspecto esportivo do jogo, de modo a aproximá-lo do esporte original. Fizemos isso alterando a perspectiva, o layout e as cores. 
+Os efeitos especiais nas bolas foram feitos pensando no maior estímulo visual para o jogador e também para mantê-lo entretido com as novidades, já que os efeitos são liberados conforme o desempenho do usuário avança. 
 
-Capturamos as ideias que tivemos fazendo a conceptart, unimos e concretizamos com o Figma.
+Capturamos as ideias que tivemos fazendo a Concept Art, unimos e concretizamos com o Figma.
 
 ---
 
