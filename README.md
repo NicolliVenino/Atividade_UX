@@ -20,7 +20,8 @@ Decidimos por manter o contexto primário de rebater a bola ao adversário e a m
 ---
 
 ## Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*
+<img src="https://github.com/NicolliVenino/Atividade_UX/blob/main/Projeto_Reinventando_Pong.png">
 
 No espectro visual, tornamos a mesa e as raquetes muito mais parecidas com suas versões realistas para reforçar o aspecto esportivo do jogo, de modo a aproximá-lo do esporte original. Fizemos isso alterando a perspectiva, o layout e as cores. 
 Os efeitos especiais nas bolas foram feitos pensando no maior estímulo visual para o jogador e também para mantê-lo entretido com as novidades, já que os efeitos são liberados conforme o desempenho do usuário avança. 
